@@ -81,3 +81,17 @@
 2025-10-16 09:52:57,604 - Knowledge - INFO - Updating org costs, total cost: 0
 2025-10-16 09:52:58,434 - Knowledge - INFO - Saving knowledge to Redis...
 2025-10-16 09:52:58,508 - Knowledge - INFO - Knowledge saved to Redis successfully
+2025-10-16 17:14:23,903 - Knowledge - INFO - Redis support added with prefix knowledge:b2193ag:
+2025-10-16 17:14:24,139 - Knowledge - INFO - load persisted knowledge: begin
+2025-10-16 17:14:24,251 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Uppaveli-Hotel-App-19886.git:kavia-main
+2025-10-16 17:14:24,336 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7ff999240110>
+2025-10-16 17:14:24,416 - Knowledge - INFO - process ingested knowledge for /app/data/T0031/19886/b2193ag/Uppaveli-Hotel-App-19886/README.md
+2025-10-16 17:14:24,504 - Knowledge - INFO - load persisted knowledge: end
+2025-10-16 17:14:24,630 - Knowledge - INFO - load persisted docinfo: begin
+2025-10-16 17:14:24,758 - Knowledge - INFO - load persisted docinfo: end
+2025-10-16 17:14:24,860 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-10-16 17:14:24,979 - Knowledge - INFO - knowledge worker kw1 start
+2025-10-16 17:14:25,124 - Knowledge - INFO - Knowledge creation complete
+2025-10-16 17:14:25,223 - Knowledge - INFO - Updating org costs, total cost: 0
+2025-10-16 17:14:26,006 - Knowledge - INFO - Saving knowledge to Redis...
+2025-10-16 17:14:26,112 - Knowledge - INFO - Knowledge saved to Redis successfully
